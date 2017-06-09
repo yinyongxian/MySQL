@@ -1,1 +1,4 @@
 D:\Me\LT.MySQL\LT.MySQL\bin\Debug\LT.MySQL.exe.config
+D:\CodeRepository\MySQL\LT.MySQL\obj\Debug\LT.MySQL.csprojResolveAssemblyReference.cache
+D:\CodeRepository\MySQL\LT.MySQL\obj\Debug\LT.MySQL.Properties.Resources.resources
+D:\CodeRepository\MySQL\LT.MySQL\obj\Debug\LT.MySQL.csproj.GenerateResource.Cache
